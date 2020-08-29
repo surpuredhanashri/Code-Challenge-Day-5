@@ -6,17 +6,10 @@
 
 //Write a function to return the Discount Amount
 function find_DiscountAmount(item1,item2,disc_precent){
-    totalcost=item1+item2;
-    d=disc_precent/100;
-    discount=totalcost*d;
-    dcost=totalcost-discount;
-    return dcost;
+return null
 }
 
 //Write a function to return the discount percent
 function find_Discount(item1,item2,disc_precent){
-    totalcost=item1+item2;
-    d=disc_precent/100;
-    discount=totalcost*d;
-    return parseFloat(discount);
+return null
 }
